@@ -1,0 +1,22 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(https://i.namu.wiki/i/lZMpkbRlj8J1BkrP_IHM9flZlN1kBU3BGJe6pxIuJlI5szBFkHlOlfBIXIpgObIlaXy0oVqfk0sOp0q4HCXTYQ.webp) center/cover no-repeat;
+}
